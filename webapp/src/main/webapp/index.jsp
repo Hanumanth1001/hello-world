@@ -1,6 +1,3 @@
-<h1> Hello, Welcome to DevOps Project !!   </h1>
-<h2>Akshaya & Ananya </h2>
-<!DOCTYPE html>
 <html lang="en-US">
 <head >
 <meta charset="UTF-8" />
